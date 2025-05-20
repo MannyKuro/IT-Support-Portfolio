@@ -11,7 +11,7 @@ Welcome to my IT support portfolio! This is where I’ll be showcasing practical
 
 This guide walks through the most common network problems and how to resolve them like a Help Desk pro.
 
-📄 [View PDF](./Network_Troubleshooting_Guide.pdf)  
+
 📝 [Download Word Version](./Network_Troubleshooting_Guide.docx)
 
 **Topics Covered:**
